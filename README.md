@@ -1,7 +1,7 @@
 # akedemiproject77
-# **Takım İsmi**
+# **;Takım 77**
 
-Takım X
+Takım 77
 
 # Ürün İle İlgili Bilgiler
 
