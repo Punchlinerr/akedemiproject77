@@ -7,36 +7,28 @@ Takım 77
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
+- Zümra Bulut: Product Owner
+- Zümra Bulut: Scrum Master
 - Atıl Samancıoğlu: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+AlarmClock
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
-
+- Zarif bir tasarım ile 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
-
+- Gözü yormaması için siyah alt renkli
+- Saati manuel olarak görebilme özelliği
+- Repeat/Sound/Title özellikleriyle alarm kurabilme
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Herkes
+- Sabah iş ya daokul için alarmla uyanan 15-65 yaş aralığı
 
 ## Product Backlog URL
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
 
 ---
 
